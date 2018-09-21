@@ -1,0 +1,62 @@
+@charset "utf-8";
+.blauw{
+	background-color: #a8abaf;
+	height: 100px;
+	width: 100px;
+	padding: 20px;
+	margin-left: 4%;
+	margin-right: 4%;
+		border-style: groove;
+}
+
+.green{
+	background-color: #a8abaf;
+	height: 100px;
+	width: 100px;
+	padding: 20px;
+	margin-left: 4%;
+	margin-right: 4%;
+	border-style: groove;
+}
+
+.footer{
+	background-color: aqua;
+}
+
+body{
+	background-image: url(http://files.all-free-download.com//downloadfiles/wallpapers/1920_1200/la_push_forest_wallpaper_landscape_nature_1004.jpg);
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: darkred;
+}
+
+.carousel {
+	margin-right: 60px;
+	margin-left: 60px;
+}
+
+.peter {
+	background-color: #a8abaf;
+	margin-right: 30px;
+	margin-left: 30px;
+	padding: 3%;
+}
+	
+.peter2 {
+	background-color: #c4c5c6;
+	margin-right: 30px;
+	margin-left: 30px;
+	padding: 3%;
+}
+	
